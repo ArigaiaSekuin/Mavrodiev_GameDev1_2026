@@ -30,11 +30,11 @@ Material:
     m_Ints: []
     m_Floats:
     - _DepthFade: 4
-    - _FlowSpeed: 0.05
-    - _Refraction: 0.04
-    - _RippleSize: 1.5
-    - _RippleStrength: 0.7
-    - _Smoothness: 0.95
+    - _FlowSpeed: 0.38
+    - _Refraction: 0.077
+    - _RippleSize: 1.24
+    - _RippleStrength: 1.62
+    - _Smoothness: 0.403
     m_Colors:
     - _DeepColor: {r: 0.015, g: 0.09, b: 0.1, a: 1}
     - _ShallowColor: {r: 0.8, g: 0.95, b: 0.93, a: 1}

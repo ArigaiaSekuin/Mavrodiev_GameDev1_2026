@@ -27,7 +27,7 @@ Material:
     m_Floats:
     - _DarkRooms: 0.03
     - _Frame: 0.06
-    - _LitRooms: 0.7
+    - _LitRooms: 0.84
     - _RoomDepth: 5
     - _Seed: 0
     - _Smoothness: 0.92

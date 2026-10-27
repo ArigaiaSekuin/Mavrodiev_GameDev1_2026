@@ -30,8 +30,8 @@ Material:
     m_Ints: []
     m_Floats:
     - _BumpScale: 1
-    - _Frost: 0
-    - _Refraction: 0.02
+    - _Frost: 0.334
+    - _Refraction: 0.084
     - _Smoothness: 0.95
     m_Colors:
     - _BaseColor: {r: 0.92, g: 0.97, b: 0.96, a: 1}
